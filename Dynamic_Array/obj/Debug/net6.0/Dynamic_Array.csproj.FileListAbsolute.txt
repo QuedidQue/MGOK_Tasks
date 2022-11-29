@@ -1,0 +1,15 @@
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\bin\Debug\net6.0\Dynamic_Array.exe
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\bin\Debug\net6.0\Dynamic_Array.deps.json
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\bin\Debug\net6.0\Dynamic_Array.runtimeconfig.json
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\bin\Debug\net6.0\Dynamic_Array.dll
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\bin\Debug\net6.0\Dynamic_Array.pdb
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.csproj.AssemblyReference.cache
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.AssemblyInfoInputs.cache
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.AssemblyInfo.cs
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.csproj.CoreCompileInputs.cache
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.dll
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\refint\Dynamic_Array.dll
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.pdb
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\Dynamic_Array.genruntimeconfig.cache
+C:\Users\G_Seb\source\MGOK\Arrays\Dynamic_Array\obj\Debug\net6.0\ref\Dynamic_Array.dll
