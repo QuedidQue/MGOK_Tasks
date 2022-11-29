@@ -1,0 +1,15 @@
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\bin\Debug\net6.0\Сonsole_Сalculator.exe
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\bin\Debug\net6.0\Сonsole_Сalculator.deps.json
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\bin\Debug\net6.0\Сonsole_Сalculator.runtimeconfig.json
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\bin\Debug\net6.0\Сonsole_Сalculator.dll
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\bin\Debug\net6.0\Сonsole_Сalculator.pdb
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.csproj.AssemblyReference.cache
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.AssemblyInfoInputs.cache
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.AssemblyInfo.cs
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.dll
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\refint\Сonsole_Сalculator.dll
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.pdb
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\Сonsole_Сalculator.genruntimeconfig.cache
+C:\Users\G_Seb\source\repos\Сonsole_Сalculator\obj\Debug\net6.0\ref\Сonsole_Сalculator.dll
